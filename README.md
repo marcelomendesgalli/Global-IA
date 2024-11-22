@@ -6,7 +6,7 @@ João Pedro Fontana - RM: 553343
 Marcelo Galli - RM: 553654
 
 ## Vídeo
-
+https://youtu.be/jfX4xhzpSxE
 
 ## Tema
 O tema escolhido para o nosso projeto foi: **Análise de Dados e IA para a Redução de Gastos Energéticos**.
